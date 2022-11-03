@@ -8,7 +8,7 @@ Django project for managing cars and drivers is taxi service
 
 Test account:
 
-* username: test123
+* username: test12345
 
 * password: ZqggNJB896dgcaR
 
